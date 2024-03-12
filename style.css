@@ -1,0 +1,25 @@
+/* ORIGINAL TASK PUPILS STARTED WITH */
+/* Full credit to code.org for task */
+  
+body {
+  background: #4da9db;
+  text-align: center;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+
+img {
+  margin: 15px;
+  width:450px;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+  
